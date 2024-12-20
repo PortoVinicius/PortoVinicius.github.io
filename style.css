@@ -9,7 +9,7 @@ body {
 header {
     text-align: center;
     padding: 1rem;
-    background-color: #0000FF;
+    background-color: #1E90FF;
     color: white;
 }
 
@@ -38,7 +38,7 @@ main {
 footer {
     text-align: center;
     padding: 1rem;
-    background-color: #0000FF;
+    background-color: #1E90FF;
     color: white;
     margin-top: 1rem;
 }
